@@ -1,2 +1,2 @@
 # blog-mvc-oo
-Blog PHP OO
+Blog PHP OO MVC
