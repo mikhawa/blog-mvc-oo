@@ -1,5 +1,5 @@
 <?php
-// view/homepage.html.php
+// path: view/home.html.twig.php
 ?>
 <!doctype html>
 <html lang="fr">
